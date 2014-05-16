@@ -4,7 +4,7 @@ visa
 Чек-лист для документов на визу
 
 
-* [x] Application
+* [x] Два распечатанных экземпляра Application
 * [x] Оплата пошлины
 * [x] Оплата priority service
 * [ ] ?Приглашение от PrismTech
