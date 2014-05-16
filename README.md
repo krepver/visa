@@ -14,3 +14,7 @@ visa
 * [ ] [Фото](https://www.gov.uk/photos-for-passports)
 
  ![Фото](https://assets.digital.cabinet-office.gov.uk/static/passport_photos_outline.jpg)
+
+
+Дополнительно
+* [x] Покупка авиа билетов
